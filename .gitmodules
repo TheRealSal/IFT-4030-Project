@@ -1,0 +1,4 @@
+[submodule "speechbrain"]
+	path = speechbrain
+	url = https://github.com/TheRealSal/speechbrain.git
+	branch = SpeechSeparation
